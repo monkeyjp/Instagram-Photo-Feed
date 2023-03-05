@@ -1,0 +1,45 @@
+header {
+    background-color: white;
+}
+body{
+   background: #EAEAEA;
+   margin: 0;
+   padding: 0;
+   font-family: sans-serif;
+}
+
+.titleAlign{
+    width: 500px;
+    margin: 0 auto;
+    padding: 10px 0;
+}
+h1{
+    margin: 0;
+}
+.post{
+    width: 500px;
+    background-color: white;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+img{
+    width: 100%;
+}
+.postHeader{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+.postDate{
+    color: grey;
+}
+.postTitle{
+    font-weight: bold;
+}
+.photoComment{
+    padding: 15px;
+    color: #555;
+}
+
+
+
